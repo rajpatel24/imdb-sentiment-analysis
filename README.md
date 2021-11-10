@@ -1,6 +1,6 @@
 # IMDB Movie Review Sentiment Analysis
 
-***
+
 
 The purpose of this project is to demonstrate the sentiment analysis of IMDB movie review dataset. 
 
